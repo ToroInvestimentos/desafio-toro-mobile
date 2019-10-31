@@ -11,7 +11,6 @@ As cotações devem ser recebidas a partir do nosso simulador de cotações que 
 ## Requisitos
 
 - O projeto deve ser publicado em um repositório público no github.com, bitbucket.org ou gitlab.com
-- Testes automatizados
 - README com instruções de como instalar as dependências do projeto, de como rodar a aplicação e como rodar os testes automatizados
 - Deve ser desenvolvido em Flutter
 
@@ -33,4 +32,4 @@ Os seguintes critérios serão usados para avaliar o seu código:
 
 ## Dúvidas
 
-Caso surjam dúvidas entre em contato conosco pelo nosso email: desafiotoro@toroinvestimentos.com.br
+Em caso de dúvidas entre em contato conosco pelo nosso email: desafiotoro@toroinvestimentos.com.br
