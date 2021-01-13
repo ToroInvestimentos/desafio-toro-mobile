@@ -26,10 +26,13 @@ A sua Splash deve conter uma animação simples a sua escolha
 Você deverá ajudar o cliente a entender as funcionalidades do seu app. A quantidade de telas, design e interação entre as telas fica a sua escolha.
 
 - Tela de login:
-Trate tentativas de login com sucessso e erro, informando para o usuário de forma agradável: login e senha inválidos, campos não preenchidos e requisito de senha inválidos (mínimo 6 caracteres)
+Apenas a Interface do que será nossa tela de login
+
 
 ## Segunda Etapa: em conjunto :floppy_disk:
 
+- Vamos tratar em cima do layout pré-estabelecido: 
+  - tentativas de login com sucessso e erro, informando para o usuário de forma agradável: login e senha inválidos, campos não preenchidos e requisito de senha inválidos (mínimo 6 caracteres)
 - Após login com sucesso, vamos criar a navegação para uma tela interna, apenas para clientes logados;
 - Esta tela deverá exibir em tempo real, de forma organizada e agradável, preços das ações recebidas através de uma conexão websocket. 
 - Vamos exibir pelo menos as 5 ações mais valorizadas e as 5 menos valorizadas em cards contendo o símbolo da ação, o preço atual e um gráfico que ilustre a evolução do preço.
