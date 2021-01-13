@@ -63,6 +63,9 @@ Os seguintes critérios serão usados para avaliar o seu código:
 - Contexto e cadência dos commits.
 - Fazer efeitos de transição na tela de introdução
 
+## Outras informações
+- Dentro das pastas assets e telas colocamos alguns prints e recursos que podem ser usados em seu projeto. Fique a vontade para seguir com as nossas sugestões... ou não :relaxed:
+
 ## Dúvidas
 
 Em caso de dúvidas entre em contato conosco pelo nosso email: desafiotoro@toroinvestimentos.com.br
